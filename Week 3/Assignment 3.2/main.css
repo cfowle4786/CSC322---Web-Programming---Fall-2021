@@ -1,0 +1,55 @@
+body {
+  background-color:  #96c0ce;
+}
+
+
+h1 {
+  text-align: center;
+  background-color: #C25B56;
+  color: #525564;
+  font-size: 45px;
+  font-family: Copperplate, fantasy;
+  margin-right: 300px;
+  margin-left: 300px;
+}
+
+h2 {
+  text-align: center;
+  background-color: #C25B56;
+  color: #525564;
+  font-size: 30px;
+  margin-right: 400px;
+  margin-left: 400px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0%;
+  overflow: hidden;
+  background-color: #C25B56;
+}
+
+li {
+  float: left;
+  border-right: 1px solid rgb(255, 255, 255);
+}
+
+a {
+  display: block;
+  padding: 14px 16px;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+
+img {
+  float: left;
+  height: 250px;
+  width: 200px;
+}
+
+p {
+  width: 50%;
+}
+
