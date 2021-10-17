@@ -1,0 +1,18 @@
+ol {
+    list-style-type: upper-roman;
+    }
+.a {
+    list-style-type: upper-alpha;
+    background-color: pink;
+    }
+.b {
+    list-style-type: upper-alpha;
+    background-color: blue;
+    }
+.c {
+    list-style-type: upper-alpha;
+    background-color: red;
+    }    
+ol ol ol {
+    list-style-type: arabic-numerals;
+    }
