@@ -1,25 +1,13 @@
 body {
-  background-color:  #96c0ce;
+  background-color:  #767879;
 }
 
-
-h1 {
-  text-align: center;
-  background-color: #C25B56;
-  color: #525564;
-  font-size: 45px;
-  font-family: Copperplate, fantasy;
-  margin-right: 300px;
-  margin-left: 300px;
-}
 
 h2 {
   text-align: center;
-  background-color: #C25B56;
-  color: #525564;
+  background-color: #717272;
+  color: #6f87ff;
   font-size: 30px;
-  margin-right: 400px;
-  margin-left: 400px;
 }
 
 ul {
@@ -27,7 +15,7 @@ ul {
   margin: 0;
   padding: 0%;
   overflow: hidden;
-  background-color: #C25B56;
+  background-color: #717272;
 }
 
 li {
@@ -53,3 +41,9 @@ p {
   width: 50%;
 }
 
+nav-item {
+  color: rgb(0, 0, 0);
+}
+nav-link {
+  color: rgb(0, 0, 0);
+}
