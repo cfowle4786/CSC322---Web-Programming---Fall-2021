@@ -6,32 +6,24 @@ h2 {
   text-align: center;
   background-color: #717272;
   color: #abb8f5;
-  font-size: 30px;
 }
 
 h3 {
   text-align: center;
   background-color: #717272;
   color: #abb8f5;
-  font-size: 30px;
 }
 
 h4 {
   text-align: center;
   background-color: #717272;
   color: #abb8f5;
-  font-size: 30px;
 }
 
 h5 {
   text-align: center;
   background-color: #717272;
   color: #abb8f5;
-  font-size: 30px;
-}
-
-p1 {
-  text-align: center;
 }
 
 header nav {
@@ -46,7 +38,9 @@ header nav {
 header nav a:link,
 header nav a:visited,
 header nav a:active {
+  background-color: #717272;
   color: #abb8f5;
+
 }
 
 li {
@@ -63,12 +57,9 @@ a {
 
 img {
   float: left;
-  height: 250px;
-  width: 200px;
-}
-
-p {
-  width: 50%;
+  /* height: 250px;
+  width: 200px; */
+  padding: 0.5rem;
 }
 
 /*
@@ -83,3 +74,4 @@ nav-link {
 ol {
   display: block;
 }
+
